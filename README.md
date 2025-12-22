@@ -32,6 +32,23 @@ Our company is strictly **IPv6-only** for this project. This isn't just a techni
 - **Cloud Run Jobs**: Executes and vanishes. No idle costs, no mercy for Google's billing department.
 - **us-central1**: The world’s cheapest digital tax haven.
 
+
+## ⚠️ Crucial: Don't Lock Yourself (and Google) Out!
+
+When configuring your Cloud Armor security policy, **you must manually allow** the following internal and infrastructure ranges. If you forget these, your Health Checks will fail, and your site will go 503 (Service Unavailable).
+
+### 🛠️ Manual Whitelist Recommendations
+
+| Priority | Name | IP Ranges | Description |
+| :--- | :--- | :--- | :--- |
+| **50** | **Health Check** | `35.191.0.0/16`, `130.211.0.0/22` | Essential for Google Load Balancer to check if your service is alive. |
+| **90** | **RFC 1918** | `10.0.0.0/8`, `172.16.0.0/12`, `192.168.0.0/16` | Standard IPv4 internal ranges to ensure internal traffic isn't blocked. |
+| **91** | **ULA (IPv6)** | `fd00::/8` | Internal IPv6 (Unique Local Addresses). Because we are an IPv6-first company. |
+
+
+> [!TIP]
+> **Why?** Cloud Armor sits at the edge. If you set the default rule to `Deny (403)`, it blocks *everything* except what you explicitly allow. The Health Check IPs are how Google's infrastructure talks to your backend—don't ghost them.
+
 ---
 
 ## ⚙️ Configuration (Environment Variables)

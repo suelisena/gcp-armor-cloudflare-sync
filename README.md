@@ -8,9 +8,12 @@ If you’re anything like me, seeing the **$3,000/month** price tag for Google C
 This project is a **Cloud Run Job** deployed in a **Tier-1 region (us-central1)**. It periodically fetches the latest Cloudflare IP ranges and neatly (and **for free**) updates your Cloud Armor firewall rules.
 
 ### 💰 Why this approach?
-- **Cost-effective**: Deployed in `us-central1`, using minimal resources (128MiB RAM), running once a week — the cost is practically **$0.00**.
+- **Cost-effective**: Deployed in `us-central1`, using minimal resources (**128MiB RAM**), running once a week — the cost is practically **$0.00**.
 - **Low maintenance**: No more manually pasting 100+ IP ranges until your hands hurt.
 - **Secure**: Strictly enforces Cloudflare-only access to your Load Balancer, effectively ghosting direct-to-IP attackers.
+
+> [!IMPORTANT]
+> **2025-12-22 Update:** As of now, the minimum memory allocation for Cloud Run Jobs has been raised to **512MiB**. But we’ve updated our deployment specs accordingly to comply with Google’s new floor while still keeping costs at a literal $0.00. Fuck Google
 
 ---
 

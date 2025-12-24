@@ -99,6 +99,12 @@ The add-iam-policy-binding command only supports adding one role at a time. You 
    gcloud projects add-iam-policy-binding ${PROJECT_ID} \
        --member="serviceAccount:${SA_EMAIL}" \
        --role="roles/iam.serviceAccountUser"
+
+   # C. Assign the "Cloud Run Developer" Role
+   # Specifically required to allow Cloud Scheduler to trigger/execute the Cloud Run Job.
+   gcloud projects add-iam-policy-binding ${PROJECT_ID} \
+       --member="serviceAccount:${SA_EMAIL}" \
+       --role="roles/run.developer"
    ```
 
 ## 🤖 Continuous Integration (Cloud Build)

